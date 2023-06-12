@@ -37,7 +37,7 @@ The following animation shows the web application's appearance and functionality
 
 
 
-./videos/portfolio.webm
+
 [Portfolio Head Animation](./video/portfolio.webm)
 
 ![Portfolio Head still image](./images/portfolio-1.PNG)
