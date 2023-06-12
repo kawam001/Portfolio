@@ -35,12 +35,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following animation shows the web application's appearance and functionality:
 
+<!--  I tried running these links but the deployment will not accept them. I get comment that the resources are too big. I have tested them and they do work:
 
+      [Portfolio Head Animation](portfolio.webm) //
 
-
-[Portfolio Head Animation](portfolio.webm)
-
-[Portfolio Head still image](portfolio.PNG)
+      [Portfolio Head still image](portfolio.PNG)    -->
 
 
 =======
