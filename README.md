@@ -31,7 +31,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 
-## Mock-Up
+## Mock-Up -- hot links
 
 The following animation shows the web application's appearance and functionality:
 
@@ -44,6 +44,6 @@ The following animation shows the web application's appearance and functionality
 
 
 =======
-# Portfolio
+# Portfolio 
 Portfolio to Demonstrate Knowledge and Capabilities
 >>>>>>> 98a338964fbfd91362b3c152992e6f1bc6e36efc
