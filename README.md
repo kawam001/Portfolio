@@ -40,7 +40,7 @@ The following animation shows the web application's appearance and functionality
 
 [Portfolio Head Animation](./video/portfolio.webm)
 
-![Portfolio Head still image](./images/portfolio.PNG)
+[Portfolio Head still image](./images/portfolio.PNG)
 
 
 =======
