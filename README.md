@@ -35,11 +35,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following animation shows the web application's appearance and functionality:
 
+![Pertfolio Still Image](portfolio-1.PNG)
+[Portfolio Demo Video](portfolio.webm)
 
-
-      ![Portfolio Head Animation](portfolio.webm)
-
-      ![Portfolio Head still image](portfolio.PNG)   
 
 
 =======
