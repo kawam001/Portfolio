@@ -37,6 +37,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ![Portfolio Screen-Shot](portfolio-screen.PNG)
 
 
+
 ### Links
 
 https://github.com/kawam001/Portfolio
